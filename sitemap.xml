@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nwuzmed.github.io/about/index.html</loc>
+    
+    <lastmod>2020-04-22T14:15:13.779Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nwuzmed.github.io/contact/index.html</loc>
+    
+    <lastmod>2020-04-22T14:15:08.485Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nwuzmed.github.io/2020/04/14/yong-github-chuang-zuo-de-di-yi-pian-blog/</loc>
     
     <lastmod>2020-04-14T10:10:48.984Z</lastmod>
@@ -30,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://nwuzmed.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nwuzmed.github.io/categories/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
@@ -58,14 +65,7 @@
   </url>
   
   <url>
-    <loc>https://nwuzmed.github.io/contact/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nwuzmed.github.io/about/index.html</loc>
+    <loc>https://nwuzmed.github.io/archives/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
