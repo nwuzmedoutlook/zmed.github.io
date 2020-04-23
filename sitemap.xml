@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nwuzmed.github.io/2020/04/14/yi-zhi-cai-niao-de-wu-liao-sheng-huo/</loc>
+    
+    <lastmod>2020-04-23T08:13:17.013Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nwuzmed.github.io/contact/index.html</loc>
     
     <lastmod>2020-04-23T03:44:49.966Z</lastmod>
@@ -37,7 +44,14 @@
   </url>
   
   <url>
-    <loc>https://nwuzmed.github.io/2020/02/16/sort-algorithms/</loc>
+    <loc>https://nwuzmed.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nwuzmed.github.io/tags/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
@@ -51,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://nwuzmed.github.io/categories/index.html</loc>
+    <loc>https://nwuzmed.github.io/2020/02/16/sort-algorithms/</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
@@ -59,13 +73,6 @@
   
   <url>
     <loc>https://nwuzmed.github.io/archives/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nwuzmed.github.io/tags/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
