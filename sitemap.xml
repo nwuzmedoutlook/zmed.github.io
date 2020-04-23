@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nwuzmed.github.io/about/index.html</loc>
+    <loc>https://nwuzmed.github.io/contact/index.html</loc>
     
-    <lastmod>2020-04-22T14:15:13.779Z</lastmod>
+    <lastmod>2020-04-23T03:44:49.966Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nwuzmed.github.io/contact/index.html</loc>
+    <loc>https://nwuzmed.github.io/friends/index.html</loc>
     
-    <lastmod>2020-04-22T14:15:08.485Z</lastmod>
+    <lastmod>2020-04-23T03:44:43.845Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nwuzmed.github.io/about/index.html</loc>
+    
+    <lastmod>2020-04-23T03:24:35.995Z</lastmod>
     
   </url>
   
@@ -59,13 +66,6 @@
   
   <url>
     <loc>https://nwuzmed.github.io/tags/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nwuzmed.github.io/friends/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
