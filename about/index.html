@@ -241,7 +241,7 @@
         
         <li><div class="divider"></div></li>
         <li>
-            <a href="https://github.com/godweiyang/hexo-matery-modified" class="waves-effect waves-light" target="_blank">
+            <a href="https://github.com/NWUzmed/NWUzmed.github.io" class="waves-effect waves-light" target="_blank">
                 <i class="fa fa-github-square fa-fw"></i>Fork Me
             </a>
         </li>
@@ -297,7 +297,7 @@
     }
 </style>
 
-<a href="https://github.com/godweiyang/hexo-matery-modified" class="github-corner tooltipped hide-on-med-and-down" target="_blank"
+<a href="https://github.com/NWUzmed/NWUzmed.github.io" class="github-corner tooltipped hide-on-med-and-down" target="_blank"
    data-tooltip="Fork Me" data-position="left" data-delay="50">
     <svg viewBox="0 0 250 250" aria-hidden="true">
         <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -372,7 +372,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
 
 <div class="statis">
-    <span class="count"><a href="/tags" target="_blank">7</a></span>
+    <span class="count"><a href="/tags" target="_blank">6</a></span>
     <span class="name">标签</span>
 </div>
 
@@ -401,7 +401,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
 
 <div class="statis">
-    <span class="count"><a href="/tags" target="_blank">7</a></span>
+    <span class="count"><a href="/tags" target="_blank">6</a></span>
     <span class="name">标签</span>
 </div>
 
@@ -584,7 +584,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"编程算法","value":2},{"name":"自动生成","value":1},{"name":"GitHub","value":1},{"name":"胡乱编写","value":1}],
+                data: [{"name":"编程算法","value":2},{"name":"GitHub","value":1},{"name":"胡乱编写","value":1},{"name":"自动生成","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -608,7 +608,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         xAxis: [
             {
                 type: 'category',
-                data: ["leetcode","算法","无用","MD尝试","首次尝试","瞎写","尝试"]
+                data: ["leetcode","算法","首次尝试","瞎写","MD尝试","无用"]
             }
         ],
         yAxis: [
@@ -621,7 +621,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [1,1,1,1,1,1,0],
+                data: [1,1,1,1,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -823,24 +823,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             
             
             
-            <a href="/tags/尝试/" target="_blank">
-                <span class="chip center-align waves-effect waves-light chip-default">尝试</span>
-            </a>
-            
-            
-            
-            <a href="/tags/无用/" target="_blank">
-                <span class="chip center-align waves-effect waves-light chip-default">无用</span>
-            </a>
-            
-            
-            
-            <a href="/tags/MD尝试/" target="_blank">
-                <span class="chip center-align waves-effect waves-light chip-default">MD尝试</span>
-            </a>
-            
-            
-            
             <a href="/tags/首次尝试/" target="_blank">
                 <span class="chip center-align waves-effect waves-light chip-default">首次尝试</span>
             </a>
@@ -852,6 +834,18 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             </a>
             
             
+            
+            <a href="/tags/MD尝试/" target="_blank">
+                <span class="chip center-align waves-effect waves-light chip-default">MD尝试</span>
+            </a>
+            
+            
+            
+            <a href="/tags/无用/" target="_blank">
+                <span class="chip center-align waves-effect waves-light chip-default">无用</span>
+            </a>
+            
+            
         </div>
     </div>
      -->
@@ -859,6 +853,47 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 </div>
                 
 
+                
+                
+<div id="myGallery" class="my-gallery">
+    <div class="title center-align" data-aos="zoom-in-up">
+        <i class="fa fa-photo"></i>&nbsp;&nbsp;相册
+    </div>
+    <div class="row">
+        
+        
+        <div class="photo col s12 m6 l4" data-aos="fade-up">
+            <div class="img-item" data-src="/medias/featureimages/2.jpg">
+                <img src="/medias/featureimages/2.jpg" class="responsive-img">
+            </div>
+        </div>
+        
+        <div class="photo col s12 m6 l4" data-aos="fade-up">
+            <div class="img-item" data-src="/medias/featureimages/5.jpg">
+                <img src="/medias/featureimages/5.jpg" class="responsive-img">
+            </div>
+        </div>
+        
+        <div class="photo col s12 m6 l4" data-aos="fade-up">
+            <div class="img-item" data-src="/medias/featureimages/6.jpg">
+                <img src="/medias/featureimages/6.jpg" class="responsive-img">
+            </div>
+        </div>
+        
+        
+    </div>
+</div>
+
+<script>
+    $(function () {
+        let animateClass = 'animated pulse';
+        $('#myGallery .photo').hover(function () {
+            $(this).addClass(animateClass);
+        }, function () {
+            $(this).removeClass(animateClass);
+        });
+    });
+</script>
                 
             </div>
         </div>
@@ -907,7 +942,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     <footer class="page-footer bg-color">
     <div class="container row center-align">
         <div class="col s12 m8 l8 copy-right">
-            &copy; 2017-2020 WeiYang. 版权所有
+            &copy; 2016-2020 NWUzmed. 版权所有
 
             
             &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
@@ -1059,7 +1094,7 @@ $(function () {
     <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
     <script src="/js/matery.js"></script>
 
-    <script type="text/javascript"> var OriginTitile = document.title, st; document.addEventListener("visibilitychange", function () { document.hidden ? (document.title = "Σ(っ °Д °;)っ喔哟，崩溃啦！", clearTimeout(st)) : (document.title = "φ(゜▽゜*)♪咦，又好了！", st = setTimeout(function () { document.title = OriginTitile }, 3e3)) })
+    <script type="text/javascript"> var OriginTitile = document.title, st; document.addEventListener("visibilitychange", function () { document.hidden ? (document.title = "喂，别走呀！", clearTimeout(st)) : (document.title = "嘿嘿，又见面了！", st = setTimeout(function () { document.title = OriginTitile }, 3e3)) })
     </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
