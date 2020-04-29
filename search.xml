@@ -164,7 +164,7 @@
       <link href="/2020/04/24/wu-fa-zhi-zao-de-ping-zi-ke-lai-yin-ping/"/>
       <url>/2020/04/24/wu-fa-zhi-zao-de-ping-zi-ke-lai-yin-ping/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="https://i.loli.net/2020/04/27/GefR2taEJwhnkM4.png" alt></p><h2 id="命名来源"><a href="#命名来源" class="headerlink" title="命名来源"></a>命名来源</h2><p>在1882年，著名数学家菲利克斯·克莱因（Felix Klein）发现了后来以他的名字命名的著名“瓶子”。这是一个像球面那样封闭的，也就是说没有边的曲面。但是它却只有一个面。在图片上我们可以看到，克莱因瓶的确就像是一个瓶子，但是它没有瓶底，它的瓶颈被拉长，然后似乎是穿过了瓶壁，最后瓶颈和瓶底圈连在了一起。它和球面不同，一只苍蝇可以从瓶子的内部直接飞到外部而不用穿过表面，所以这个瓶子没有内外之分。<br><img src="https://i.loli.net/2020/04/27/2X8jwZiEqnzWmSa.gif" alt></p><h2 id="概念描述"><a href="#概念描述" class="headerlink" title="概念描述"></a>概念描述</h2><p>克莱因瓶是一个不可定向的二维紧流形，而球面或轮胎面是可定向的二维紧流形。如果观察克莱因瓶，有一点似乎令人困惑－－克莱因瓶的瓶颈和瓶身是相交的，换句话说，瓶颈上的某些点和瓶壁上的某些点占据了三维空间中的同一个位置。不过克莱因瓶无法存在三维空间，它只能存在于四维或更高维的空间里。科学们利用抽象的概念，做出了一个克莱因瓶子的模型，这个模型是没有底部的，瓶子的颈部被拉长弯曲穿过了瓶壁，这个模型看起来很怪异，虽然很像克莱因瓶，但这终究只是抽象概念的具现化而已，克莱因瓶子在现实中没法真正做出来。<br><img src="https://i.loli.net/2020/04/27/VetgFiy8hSbufWH.gif" alt><br>有趣的是，如果把克莱因瓶沿着它的对称线切下去，会得到两个莫比乌斯环。而关于莫比乌斯环的介绍，在之前的文章中有介绍，可以点击这里快速跳转。</p><h2 id="三维建模"><a href="#三维建模" class="headerlink" title="三维建模"></a>三维建模</h2><p>虽然无法制造出真正的克莱因瓶，但在三维空间里与自身相交的假想克莱因瓶模型还是可以制作出来的。很多朋友是否也想亲自动手建立它的三维模型呢？下面向大家展示我自己的简陋作品之一，欢迎指正。<br><img src="https://i.loli.net/2020/04/27/MqmW4li8wQsG3uD.png" alt><br>最后也给大家提供Soldworks模型下载及绘制教程，自己尝试吧！<br><a href="http://www.rjzxw.com/jiaocheng/15056-1.html" target="_blank" rel="noopener">SolidWorks克莱因瓶子建模的方法 - 软件自学网</a><br><a href="https://video.tudou.com/v/XMzc3OTUyMjU4NA==.html" target="_blank" rel="noopener">神奇的克莱因瓶solidworks建模_土豆视频</a><br><a href="https://lanzous.com/ibyl2xg" target="_blank" rel="noopener">克莱因瓶SW模型下载</a></p><blockquote><p>每日歌曲分享之《何日重到苏澜桥》</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=552791040&auto=1&height=66"></iframe><p>青山远去万里遥，苏澜城外雨潇潇。孤舟一叶问船家，何日重到苏澜桥。</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="https://i.loli.net/2020/04/29/DNG8avwcgWlVTt6.png" alt></p><h2 id="命名来源"><a href="#命名来源" class="headerlink" title="命名来源"></a>命名来源</h2><p>在1882年，著名数学家菲利克斯·克莱因（Felix Klein）发现了后来以他的名字命名的著名“瓶子”。这是一个像球面那样封闭的，也就是说没有边的曲面。但是它却只有一个面。在图片上我们可以看到，克莱因瓶的确就像是一个瓶子，但是它没有瓶底，它的瓶颈被拉长，然后似乎是穿过了瓶壁，最后瓶颈和瓶底圈连在了一起。它和球面不同，一只苍蝇可以从瓶子的内部直接飞到外部而不用穿过表面，所以这个瓶子没有内外之分。<br><img src="https://i.loli.net/2020/04/27/2X8jwZiEqnzWmSa.gif" alt></p><h2 id="概念描述"><a href="#概念描述" class="headerlink" title="概念描述"></a>概念描述</h2><p>克莱因瓶是一个不可定向的二维紧流形，而球面或轮胎面是可定向的二维紧流形。如果观察克莱因瓶，有一点似乎令人困惑－－克莱因瓶的瓶颈和瓶身是相交的，换句话说，瓶颈上的某些点和瓶壁上的某些点占据了三维空间中的同一个位置。不过克莱因瓶无法存在三维空间，它只能存在于四维或更高维的空间里。科学们利用抽象的概念，做出了一个克莱因瓶子的模型，这个模型是没有底部的，瓶子的颈部被拉长弯曲穿过了瓶壁，这个模型看起来很怪异，虽然很像克莱因瓶，但这终究只是抽象概念的具现化而已，克莱因瓶子在现实中没法真正做出来。<br><img src="https://i.loli.net/2020/04/27/VetgFiy8hSbufWH.gif" alt><br>有趣的是，如果把克莱因瓶沿着它的对称线切下去，会得到两个莫比乌斯环。而关于莫比乌斯环的介绍，在之前的文章中有介绍，可以点击这里快速跳转。</p><h2 id="三维建模"><a href="#三维建模" class="headerlink" title="三维建模"></a>三维建模</h2><p>虽然无法制造出真正的克莱因瓶，但在三维空间里与自身相交的假想克莱因瓶模型还是可以制作出来的。很多朋友是否也想亲自动手建立它的三维模型呢？下面向大家展示我自己的简陋作品之一，欢迎指正。<br><img src="https://i.loli.net/2020/04/27/MqmW4li8wQsG3uD.png" alt><br>最后也给大家提供Soldworks模型下载及绘制教程，自己尝试吧！<br><a href="http://www.rjzxw.com/jiaocheng/15056-1.html" target="_blank" rel="noopener">SolidWorks克莱因瓶子建模的方法 - 软件自学网</a><br><a href="https://video.tudou.com/v/XMzc3OTUyMjU4NA==.html" target="_blank" rel="noopener">神奇的克莱因瓶solidworks建模_土豆视频</a><br><a href="https://lanzous.com/ibyl2xg" target="_blank" rel="noopener">克莱因瓶SW模型下载</a></p><blockquote><p>每日歌曲分享之《何日重到苏澜桥》</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=552791040&auto=1&height=66"></iframe><p>青山远去万里遥，苏澜城外雨潇潇。孤舟一叶问船家，何日重到苏澜桥。</p>]]></content>
       
       
       <categories>
@@ -176,9 +176,9 @@
       
         <tags>
             
-            <tag> 克莱因瓶 </tag>
-            
             <tag> 不可定向 </tag>
+            
+            <tag> 克莱因瓶 </tag>
             
             <tag> 四维空间 </tag>
             
@@ -343,7 +343,7 @@
       <link href="/2020/03/27/zhi-you-yi-ge-mian-de-zhi-dai-mo-bi-wu-si-dai/"/>
       <url>/2020/03/27/zhi-you-yi-ge-mian-de-zhi-dai-mo-bi-wu-si-dai/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="https://i.loli.net/2020/04/27/GefR2taEJwhnkM4.png" alt></p><h2 id="命名来源"><a href="#命名来源" class="headerlink" title="命名来源"></a>命名来源</h2><p>公元1858年，德国数学家莫比乌斯（Mobius，1790～1868）和约翰·李斯丁发现：把一根纸条扭转180°后，两头再粘接起来做成的纸带圈，具有魔术般的性质。普通纸带具有两个面（即双侧曲面），一个正面，一个反面，两个面可以涂成不同的颜色；而这样的纸带只有一个面（即单侧曲面），一只小虫可以爬遍整个曲面而不必跨过它的边缘。这种纸带被称为“莫比乌斯带”（也就是说，它的曲面从两个减少到只有一个）。<br><img src="https://i.loli.net/2020/04/27/o8h2cKwvLDlMdgS.jpg" alt></p><h2 id="概念描述"><a href="#概念描述" class="headerlink" title="概念描述"></a>概念描述</h2><p>莫比乌斯带是一个二维的紧致流形（即一个有边界的面），可以嵌入到三维或更高维的流形中。这个带子本身是个二维概念，但它的扭曲是个三维动作，把二维材料施加三维动作，那它就是个三维物体概念了。莫比乌斯带严格意义上讲不是穿越了边界来到了反面，而是这个带子本身的表面就是个整体，是一面。一个莫比乌斯带沿边界粘上一个圆盘就得到二维实射影空间，两个莫比乌斯带沿边界粘起来就得到一个克莱因瓶。<br><img src="https://i.loli.net/2020/04/27/ZMfJN4FnYke59L8.gif" alt><br>莫比乌斯带的重要特性是：虽然在每个局部都可以说正面反面，但整体上不能分隔成正面和反面，即这种曲面是只有一个面的 “单侧曲面”。</p><h2 id="引申意义"><a href="#引申意义" class="headerlink" title="引申意义"></a>引申意义</h2><p>可能莫比乌斯环在每个人心中的意义都不同，如下是摘自知乎一位匿名用户的回答，是不是觉得还蛮有意思呢!</p><h4 id="理想爱情。"><a href="#理想爱情。" class="headerlink" title="理想爱情。"></a>理想爱情。</h4><p>• 如果某个人站在一个巨大的莫比乌斯带的表面上沿着他能看到的“路”一直走下去，他就永远不会停下来。<br>• 数学家断言：莫比乌斯带只有一边。如果你不相信，就请剪开一个验证，带子分离时候却还是相连。<br><img src="https://i.loli.net/2020/04/27/wpyJs3RNUIkTbLG.jpg" alt></p><h2 id="三维建模"><a href="#三维建模" class="headerlink" title="三维建模"></a>三维建模</h2><p>下图是我用Solidworks绘制的莫比乌斯环，直接来看是由三个莫比乌斯带沿边线两两粘合而成的，提供下载链接，大家可以自己尝试呀！<br><img src="https://i.loli.net/2020/04/27/p4kxXjzE3RbusHD.png" alt><br>（本文部分图片源自网络，如侵删）<br><a href="https://lanzous.com/ic0cxvi" target="_blank" rel="noopener">莫比乌斯环SW模型下载</a></p><blockquote><p>每日歌曲分享之《何日重到苏澜桥》</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=34880571&auto=1&height=66"></iframe><p>岁月不堪数，故人不知处。最是人间留不住，三千红尘路，长安故土。</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="https://i.loli.net/2020/04/29/DNG8avwcgWlVTt6.png" alt></p><h2 id="命名来源"><a href="#命名来源" class="headerlink" title="命名来源"></a>命名来源</h2><p>公元1858年，德国数学家莫比乌斯（Mobius，1790～1868）和约翰·李斯丁发现：把一根纸条扭转180°后，两头再粘接起来做成的纸带圈，具有魔术般的性质。普通纸带具有两个面（即双侧曲面），一个正面，一个反面，两个面可以涂成不同的颜色；而这样的纸带只有一个面（即单侧曲面），一只小虫可以爬遍整个曲面而不必跨过它的边缘。这种纸带被称为“莫比乌斯带”（也就是说，它的曲面从两个减少到只有一个）。<br><img src="https://i.loli.net/2020/04/27/o8h2cKwvLDlMdgS.jpg" alt></p><h2 id="概念描述"><a href="#概念描述" class="headerlink" title="概念描述"></a>概念描述</h2><p>莫比乌斯带是一个二维的紧致流形（即一个有边界的面），可以嵌入到三维或更高维的流形中。这个带子本身是个二维概念，但它的扭曲是个三维动作，把二维材料施加三维动作，那它就是个三维物体概念了。莫比乌斯带严格意义上讲不是穿越了边界来到了反面，而是这个带子本身的表面就是个整体，是一面。一个莫比乌斯带沿边界粘上一个圆盘就得到二维实射影空间，两个莫比乌斯带沿边界粘起来就得到一个克莱因瓶。<br><img src="https://i.loli.net/2020/04/27/ZMfJN4FnYke59L8.gif" alt><br>莫比乌斯带的重要特性是：虽然在每个局部都可以说正面反面，但整体上不能分隔成正面和反面，即这种曲面是只有一个面的 “单侧曲面”。</p><h2 id="引申意义"><a href="#引申意义" class="headerlink" title="引申意义"></a>引申意义</h2><p>可能莫比乌斯环在每个人心中的意义都不同，如下是摘自知乎一位匿名用户的回答，是不是觉得还蛮有意思呢!</p><h4 id="理想爱情。"><a href="#理想爱情。" class="headerlink" title="理想爱情。"></a>理想爱情。</h4><p>• 如果某个人站在一个巨大的莫比乌斯带的表面上沿着他能看到的“路”一直走下去，他就永远不会停下来。<br>• 数学家断言：莫比乌斯带只有一边。如果你不相信，就请剪开一个验证，带子分离时候却还是相连。<br><img src="https://i.loli.net/2020/04/27/wpyJs3RNUIkTbLG.jpg" alt></p><h2 id="三维建模"><a href="#三维建模" class="headerlink" title="三维建模"></a>三维建模</h2><p>下图是我用Solidworks绘制的莫比乌斯环，直接来看是由三个莫比乌斯带沿边线两两粘合而成的，提供下载链接，大家可以自己尝试呀！<br><img src="https://i.loli.net/2020/04/27/p4kxXjzE3RbusHD.png" alt><br>（本文部分图片源自网络，如侵删）<br><a href="https://lanzous.com/ic0cxvi" target="_blank" rel="noopener">莫比乌斯环SW模型下载</a></p><blockquote><p>每日歌曲分享之《烟笼长安》</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=34880571&auto=1&height=66"></iframe><p>岁月不堪数，故人不知处。最是人间留不住，三千红尘路，长安故土。</p>]]></content>
       
       
       <categories>
@@ -355,11 +355,11 @@
       
         <tags>
             
-            <tag> 不可定向 </tag>
-            
             <tag> 莫比乌斯 </tag>
             
             <tag> 二维世界 </tag>
+            
+            <tag> 不可定向 </tag>
             
         </tags>
       
