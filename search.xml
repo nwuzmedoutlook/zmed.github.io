@@ -4,6 +4,48 @@
   
     
     <entry>
+      <title>有趣的函数图像——数学之美</title>
+      <link href="/2020/05/05/you-qu-de-han-shu-tu-xiang-shu-xue-zhi-mei/"/>
+      <url>/2020/05/05/you-qu-de-han-shu-tu-xiang-shu-xue-zhi-mei/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="https://i.loli.net/2020/04/29/DNG8avwcgWlVTt6.png" alt><br>作为一个资源搜索爱好者，前几天无意发现了一款小巧但强悍的作图软件，今天将我用它做的40多张图像及安装包（下载链接见文末）分享给大家。<br>首先简单介绍一下这个工具，它叫GrafEq，目前最新版本号为2.13，可以免费下载并使用。Grafeq是一个直观、灵活、精确、全面的隐函数以及不等式绘图软件，界面简单很容易操作。虽然这款软件只有2M大小，但是在二维作图功能上可以吊打Mathematica、Maple、Matlab、Origin等软件。<br><img src="https://s1.ax1x.com/2020/05/05/Yk98jU.png" alt><br>废话不多说，下面直接给出我用Grafeq绘制的各种图像（原函数来自网络搜集，部分经过改造）。</p><h4 id="Butterfly-curve（蝴蝶曲线）"><a href="#Butterfly-curve（蝴蝶曲线）" class="headerlink" title="Butterfly curve（蝴蝶曲线）"></a>Butterfly curve（蝴蝶曲线）</h4><p><img src="https://i.loli.net/2020/05/05/1zEakOTXHoBcdeZ.png" alt></p><h4 id="Ceiling-pattern（天花彩画）"><a href="#Ceiling-pattern（天花彩画）" class="headerlink" title="Ceiling pattern（天花彩画）"></a>Ceiling pattern（天花彩画）</h4><p><img src="https://s1.ax1x.com/2020/05/05/YkSpKe.png" alt></p><h4 id="Fermat-Spiral（费马螺线）"><a href="#Fermat-Spiral（费马螺线）" class="headerlink" title="Fermat Spiral（费马螺线）"></a>Fermat Spiral（费马螺线）</h4><p><img src="https://s1.ax1x.com/2020/05/05/YkSrPx.png" alt></p><h4 id="Peanut-curve（花生曲线）"><a href="#Peanut-curve（花生曲线）" class="headerlink" title="Peanut curve（花生曲线）"></a>Peanut curve（花生曲线）</h4><p><img src="https://s1.ax1x.com/2020/05/05/YkSjds.png" alt="YkSjds.png"></p><h4 id="Chinese-knot（中国结）"><a href="#Chinese-knot（中国结）" class="headerlink" title="Chinese knot（中国结）"></a>Chinese knot（中国结）</h4><p><img src="https://s1.ax1x.com/2020/05/05/YkP5nS.png" alt></p><h3 id="“心”形曲线"><a href="#“心”形曲线" class="headerlink" title="“心”形曲线"></a>“心”形曲线</h3><p><img src="https://s1.ax1x.com/2020/05/05/YkpAeJ.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkpmJx.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkCqsO.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkCvod.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkPpWt.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkPVoj.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkPaSx.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkPDmD.png" alt></p><h3 id="“花”形曲线"><a href="#“花”形曲线" class="headerlink" title="“花”形曲线"></a>“花”形曲线</h3><p><img src="https://s1.ax1x.com/2020/05/05/Ykprwj.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkCurD.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkClad.png" alt></p><h3 id="不知名函数图像"><a href="#不知名函数图像" class="headerlink" title="不知名函数图像"></a>不知名函数图像</h3><p><img src="https://i.loli.net/2020/05/05/k15YIClPaKr3N4y.png" alt><br><img src="https://i.loli.net/2020/05/05/IQGPCzbmDshu9l8.png" alt><br><img src="https://i.loli.net/2020/05/05/r67XgKFxLVNcioZ.png" alt><br><img src="https://i.loli.net/2020/05/05/gI9iMWe7LnxqvFa.png" alt><br><img src="https://i.loli.net/2020/05/05/haDpEQXGW7vYu4m.png" alt><br><img src="https://i.loli.net/2020/05/05/ab7xnPOVMgo4hyI.png" alt><br><img src="https://i.loli.net/2020/05/05/QXgaZRihl7Lespt.png" alt><br><img src="https://i.loli.net/2020/05/05/YDKXdUnjsBHiqAf.png" alt><br><img src="https://i.loli.net/2020/05/05/Q2XrztCmalSHc9Y.png" alt><br><img src="https://i.loli.net/2020/05/05/Ov5WdNmHTFzJeyR.png" alt></p><h3 id="据说是太极八卦图，但画出来不太对劲"><a href="#据说是太极八卦图，但画出来不太对劲" class="headerlink" title="据说是太极八卦图，但画出来不太对劲"></a>据说是太极八卦图，但画出来不太对劲</h3><p><img src="https://i.loli.net/2020/05/05/uPvdzhQXiZN6YaR.png" alt></p><h4 id="下面是根据“太极八卦图”改造的图像"><a href="#下面是根据“太极八卦图”改造的图像" class="headerlink" title="下面是根据“太极八卦图”改造的图像"></a>下面是根据“太极八卦图”改造的图像</h4><p><img src="https://i.loli.net/2020/05/05/U8WJskj6Y9Gw52A.png" alt><br><img src="https://i.loli.net/2020/05/05/TqRZtO2gHpjkADy.png" alt><br><img src="https://i.loli.net/2020/05/05/PcwKR59CNmgATGz.png" alt><br><img src="https://i.loli.net/2020/05/05/AHCPsUTtGJKVLZ5.png" alt><br><img src="https://i.loli.net/2020/05/05/iMRFS579KbPVL1f.png" alt><br><img src="https://i.loli.net/2020/05/05/5WYqTw2eZfC3Fni.png" alt></p><h3 id="“污”函数图像"><a href="#“污”函数图像" class="headerlink" title="“污”函数图像"></a>“污”函数图像</h3><h4 id="Boob-curve（乳房曲线）"><a href="#Boob-curve（乳房曲线）" class="headerlink" title="Boob curve（乳房曲线）"></a>Boob curve（乳房曲线）</h4><p><img src="https://i.loli.net/2020/05/05/zTh85viDspqROg1.png" alt></p><h4 id="自己想象"><a href="#自己想象" class="headerlink" title="自己想象"></a>自己想象</h4><p><img src="https://s1.ax1x.com/2020/05/05/YkSbQS.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkCBIs.png" alt></p><h3 id="原创曲线"><a href="#原创曲线" class="headerlink" title="原创曲线"></a>原创曲线</h3><p><img src="https://i.loli.net/2020/05/05/o3wrR5QxPY1NztE.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkpKSK.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkpGTA.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkCYxf.png" alt><br>看了这么多精美的曲线，是不是觉得Grafeq很厉害呢？其实这个软件也有明显的缺点，比如：</p><ol><li>只是呈现结果，无法做进一步的数据分析。</li><li>无法绘制三维立体图像。如下是两个三维图像方程在该软件中呈现的样子，本应该是”面包“与”空竹“，现在却只能以平面显示。<br><img src="https://s1.ax1x.com/2020/05/05/YkiPhR.png" alt><br><img src="https://s1.ax1x.com/2020/05/05/YkPRpt.png" alt></li><li>无法绘制分段函数、参数方程、迭代方程等曲线。</li><li>坐标轴无法编辑，只能在作图之前简单规定定义域和值域，需要后期加工。<br>这款软件小巧灵活，可以作为大家探索趣味函数图像的金钥匙，当然也可以用在科研学习中。<a href="http://www.peda.com/grafeq/gallery.html" target="_blank" rel="noopener">官网</a>还有很多美丽炫酷的图线，也都有原函数，在此我附上软件下载地址和以上所有图像合集，大家快去尝试吧!<br><a href="http://www.peda.com/download/" target="_blank" rel="noopener">GrafEq 2.13下载</a><a href="http://www.peda.com/download/" target="_blank" rel="noopener">http://www.peda.com/download/</a><br><a href="https://lanzous.com/icapw8h" target="_blank" rel="noopener">GrafEq精美曲线打包下载</a><br><a href="https://lanzous.com/icapw8h" target="_blank" rel="noopener">https://lanzous.com/icapw8h</a><blockquote><p>每日歌曲分享之《离人未归》</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=27927044&auto=1&height=66"></iframe></li></ol><p>闭上眼画面回到从前湛蓝色的大海，你转身对我浅笑微风轻轻吹动裙摆。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 函数曲线 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2020/05/04/20-nian-qiu-xue-zhi-lu/"/>
+      <url>/2020/05/04/20-nian-qiu-xue-zhi-lu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="我的回忆录"><a href="#我的回忆录" class="headerlink" title="我的回忆录"></a>我的回忆录</h1><h2 id="1997年"><a href="#1997年" class="headerlink" title="1997年"></a>1997年</h2><h3 id="十月廿九（11月28日）"><a href="#十月廿九（11月28日）" class="headerlink" title="十月廿九（11月28日）"></a>十月廿九（11月28日）</h3><p>我出生在陕西南部的一个小山村</p><h2 id="2002年"><a href="#2002年" class="headerlink" title="2002年"></a>2002年</h2><h3 id="9月"><a href="#9月" class="headerlink" title="9月"></a>9月</h3><p>5岁的我开始进入村里唯一的小学——光明小学读书，依稀记得刚入学时学校仅有四位老师，从学前班、一年级到四年级共五个班。老师都是镇上其他村子来的，我们这个村没有一位老师。自行车是每个老师必备的交通工具，即便在寒风凛冽的冬季早晨，也无法阻挡他们来校教书的步伐。校园里屋舍不多，是传统的砖瓦结构，一间大教室，两间小教室，围墙圈起的一个不规则扇形区域是我们所谓的操场，在那些尘土飞扬的日子里，我们是一群天真欢乐的孩子。还有几间更小的房子是留给几位老师的，他们日常在学校自己生火做饭，偶尔天气原因才勉强在学校将就一宿。当时我根本没有听说过幼儿园这个词，年龄到了就直接去学前班。</p><h2 id="2003年"><a href="#2003年" class="headerlink" title="2003年"></a>2003年</h2><p>我记我得了一场大病，时间记不清了，大概推算是在这一年。后来才知道，2003年全国非典疫情严重，但在一个信息封闭的小山村里，我只记得大人们都去药店买板蓝根颗粒，甚至直接去中药铺子买晾干的板蓝根，全然不知道发生了什么。当时生病还挺严重，休学半年，从镇上转至县里住院，还动了手术。我不知道我是不是得了非典，但我很感动，在那个家里只有一辆骑了十几年的二八大杠的时代，爸妈四处问亲朋好友借钱为我治病。所幸上天怜悯，佑我平安成长至今。不过耽误了半年，我也不得不再上一次学前班。<br>在住院的日子里，有两件事让我记忆深刻。一是“枪击”事件，进入手术室的前几分钟，爸爸为了鼓励我不让我害怕，就说乖乖做完手术，想要什么都给我买。我当时就毫不犹豫地回答说：“要一架机枪，可以打子弹的”。爸爸很爽快的答应了，出手术室时爸爸就拿着一挺黑色机枪迎接我，当时别提有多高兴了。术后恢复期的某天，一位新来的护士姐姐给我扎针，结果扎了三四次扎不准，我就特别气愤，于是上了膛的机枪打的第一个人便是这位护士。我记得那子弹是黄豆大小的塑料球，打在身上应该不是特别疼，但她还是被我气走了。现在想想，当时的我，脾气也蛮暴躁的。二是“撕钱”事件。</p><h2 id="2004年"><a href="#2004年" class="headerlink" title="2004年"></a>2004年</h2><p>这一年，终于如愿步入一年级。这个年级只有7个人。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Yu Writer</title>
       <link href="/2020/04/29/yu-writer-hao-yong/"/>
       <url>/2020/04/29/yu-writer-hao-yong/</url>
