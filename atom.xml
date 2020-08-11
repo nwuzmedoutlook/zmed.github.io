@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nwuzmed.github.io/"/>
-  <updated>2020-08-10T09:06:56.901Z</updated>
+  <updated>2020-08-11T04:47:02.991Z</updated>
   <id>https://nwuzmed.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>简单模板</title>
+    <link href="https://nwuzmed.github.io/2020/08/11/ce-shi-wen-ben/"/>
+    <id>https://nwuzmed.github.io/2020/08/11/ce-shi-wen-ben/</id>
+    <published>2020-08-10T16:00:00.000Z</published>
+    <updated>2020-08-11T04:47:02.991Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【钚止科技】，共享每日黑科技！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;h2 id=&quot;小标题1&quot;&gt;&lt;a href=&quot;#小标题1&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="胡乱编写" scheme="https://nwuzmed.github.io/categories/%E8%83%A1%E4%B9%B1%E7%BC%96%E5%86%99/"/>
+    
+    
+      <category term="瞎写" scheme="https://nwuzmed.github.io/tags/%E7%9E%8E%E5%86%99/"/>
+    
+  </entry>
   
   <entry>
     <title>内容测试2</title>
